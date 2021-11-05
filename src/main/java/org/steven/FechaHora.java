@@ -59,3 +59,4 @@ class FechaHora {
         this.min = min;
     }
 }
+
