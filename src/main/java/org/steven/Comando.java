@@ -1,2 +1,4 @@
-package org.steven;public interface Comando {
+package org.steven;
+
+public interface Comando {
 }
